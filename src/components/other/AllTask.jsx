@@ -30,6 +30,8 @@ const AllTask = () => {
               <h5 className="text-lg font-medium w-1/5 text-red-600">
                 {elem.taskCounts.failed}
               </h5>
+              {/* delete */}
+              <h2>khshdhkkh</h2>
             </div>
           );
         })}
